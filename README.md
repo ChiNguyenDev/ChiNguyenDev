@@ -1,3 +1,2 @@
 - 🇩🇪 Hi, I’m a computer science student based in Germany
 - 🌱 I’m currently learning various Python frameworks and cloud services
-- 💞️ I’m looking to collaborate on ...
