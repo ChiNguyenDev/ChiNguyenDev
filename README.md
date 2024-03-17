@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Azure projects and AZ-104 Certification**
 
-- 👨‍💻 learn more about me at ccnguyen.de
+- 👨‍💻 learn more about me at **ccnguyen.de**
 
 - 📫 How to reach me **chi.cuong.nguyen@proton.me**
 
