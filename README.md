@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chi Cuong Nguyen</h1>
 <h3 align="center">Computer Science student from Germany</h3>
 
-- 🔭 I’m currently working on **Azure projects and the AZ-104 Microsoft Azure-Administrator certification**
+- 🔭 I’m currently working on **Container- and Cloud Technologies**
 
 - 👨‍💻 learn more about me on [my website](https://ccnguyen.de)
 
