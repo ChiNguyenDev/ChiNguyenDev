@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Container- and Cloud Technologies**
 
-- 👨‍💻 Learn more about me & my projects on [https://ccnguyen.de/](https://ccnguyen.de/)
+- 👨‍💻 Learn more about me & my projects on <a href="https://ccnguyen.de">my website</a>
 
 - 📫 How to reach me **chi.cuong.nguyen@proton.me**
 
