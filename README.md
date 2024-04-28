@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chi Cuong Nguyen</h1>
 <h3 align="center">Computer Science student from Germany</h3>
-<h2 align="center">Aspiring Cloud/DevOps Engineer</h2>
+<h4 align="center">Aspiring Cloud/DevOps Engineer</h4>
 
 - 🔭 I’m currently working on **AZ-104 Cloud Adminstrator Certification**
 
