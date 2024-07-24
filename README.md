@@ -4,7 +4,7 @@
 <br/>
 - 🔭 I’m currently working on **AZ-104 Cloud Adminstrator Certification**
 
-- 🌱 I’m currently learning **Container- and Cloud Technologies**
+- 🌱 I’m currently learning **Infratructure As Code & Cloud Technologies**
 
 - 👨‍💻 Learn more about me & my projects on <a href="https://ccnguye">my website</a>
 
