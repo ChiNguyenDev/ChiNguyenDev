@@ -2,11 +2,9 @@
 <h3 align="center">Computer Science student from Germany</h3>
 <h3 align="center">Aspiring Cloud/DevOps Engineer</h3>
 <br/>
-- 🔭 I’m currently working on **AZ-104 Cloud Adminstrator Certification**
+- 🔭 I’m currently working on **AZ-104 Cloud Adminstrator Certification, Infrastructure project**
 
 - 🌱 I’m currently learning **Infratructure As Code & Cloud Technologies**
-
-- 👨‍💻 Learn more about me & my projects on <a href="https://ccnguye">my website</a>
 
 - 📫 How to reach me **chi.cuong.nguyen@proton.me**
 
