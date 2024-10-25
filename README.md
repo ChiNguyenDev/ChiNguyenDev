@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science student from Germany</h3>
 <h3 align="center">Aspiring Cloud/DevOps Engineer</h3>
 <br/>
-- 🔭 I’m currently working on **AZ-104 Cloud Adminstrator Certification, Infrastructure project**
+- 🔭 I’m currently working on **AZ-305 Solutions Architect Expert Certification, Infrastructure project**
 
 - 🌱 I’m currently learning **Infratructure As Code & Cloud Technologies**
 
