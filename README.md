@@ -4,7 +4,7 @@
 <br/>
 - 🔭 I’m currently working on **Finishing my Bachelors degree and the AZ-305 Solutions Architect Expert Certification**
 
-- 🌱 I’m currently learning **Infratructure As Code & Cloud Technologies**
+- 🌱 I’m currently learning **Infrastructure As Code & Cloud Technologies**
 
 - 📫 How to reach me **chi.cuong.nguyen@proton.me**
 
