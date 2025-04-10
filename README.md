@@ -2,11 +2,7 @@
 <h3 align="center">Computer Science student from Germany</h3>
 <h3 align="center">Aspiring Cloud Engineer</h3>
 <br/>
-- 🔭 I’m currently working on **Finishing my Bachelors degree and the AZ-305 Solutions Architect Expert Certification**
 
-- 🌱 I’m currently learning **Infrastructure As Code & Cloud Technologies**
-
-- 📫 How to reach me **chi.cuong.nguyen@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
