@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Chi Cuong Nguyen</h1>
-<h3 align="center">Computer Science student from Germany</h3>
 <h3 align="center">Aspiring Cloud Engineer</h3>
 <br/>
 
